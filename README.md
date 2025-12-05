@@ -129,3 +129,8 @@ Runs on: `http://localhost:5173/`
 
 - In-memory DB used due to assignment time limits
 - Architecture supports replacing it with PostgreSQL easily
+
+---
+
+_Submitted by: **Pulkit Yagyasaini**_
+
